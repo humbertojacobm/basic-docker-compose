@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboTicket.MobileApp.iOS",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GloboTicket.MobileApp", "GloboTicket.MobileApp\GloboTicket.MobileApp\GloboTicket.MobileApp.csproj", "{ACEA45CB-0CF4-4093-A6AF-E4984FCA6F5D}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{F2DA0254-199E-4941-B07E-DA1852D98DE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -233,6 +235,18 @@ Global
 		{ACEA45CB-0CF4-4093-A6AF-E4984FCA6F5D}.Release|iPhone.Build.0 = Release|Any CPU
 		{ACEA45CB-0CF4-4093-A6AF-E4984FCA6F5D}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{ACEA45CB-0CF4-4093-A6AF-E4984FCA6F5D}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{F2DA0254-199E-4941-B07E-DA1852D98DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DA0254-199E-4941-B07E-DA1852D98DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DA0254-199E-4941-B07E-DA1852D98DE0}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{F2DA0254-199E-4941-B07E-DA1852D98DE0}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{F2DA0254-199E-4941-B07E-DA1852D98DE0}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{F2DA0254-199E-4941-B07E-DA1852D98DE0}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{F2DA0254-199E-4941-B07E-DA1852D98DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DA0254-199E-4941-B07E-DA1852D98DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2DA0254-199E-4941-B07E-DA1852D98DE0}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{F2DA0254-199E-4941-B07E-DA1852D98DE0}.Release|iPhone.Build.0 = Release|Any CPU
+		{F2DA0254-199E-4941-B07E-DA1852D98DE0}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{F2DA0254-199E-4941-B07E-DA1852D98DE0}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
